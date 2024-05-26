@@ -9,7 +9,7 @@ Este trabalho apresenta o desenvolvimento de um game experimental, resultado de 
 ## Pré-requisitos
 - Godot Game Engine 3.2.3 ou superior
 - Conhecimento básico de lógica de programação
-- Vontade de aprender
+
 
 ## Conteúdo
 - Apresentação da Ferramenta Godot Game Engine
